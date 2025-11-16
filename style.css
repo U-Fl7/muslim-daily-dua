@@ -1,0 +1,61 @@
+:root{
+  --bg: #f6fffd;
+  --card: #e6fffb;
+  --accent: #12b3a6;
+  --text: #05323a;
+  --muted: #2f6b6a;
+}
+body.dark{
+  --bg: #051a1a;
+  --card: #072525;
+  --text: #dff6f5;
+  --muted: #a7d6d2;
+}
+*{box-sizing:border-box}
+body{
+  margin:0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background:var(--bg);
+  color:var(--text);
+  min-height:100vh;
+  display:flex;
+  flex-direction:column;
+}
+.topbar{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  padding:12px;
+  background:linear-gradient(90deg, rgba(18,179,166,0.12), rgba(18,179,166,0.05));
+  border-bottom:1px solid rgba(0,0,0,0.05);
+}
+.brand{display:flex;gap:10px;align-items:center}
+.brand h1{margin:0;font-size:18px}
+.brand small{color:var(--muted)}
+.icon{width:48px;height:48px;border-radius:10px;object-fit:cover;border:2px solid rgba(0,0,0,0.03)}
+.actions button{background:none;border:none;font-size:18px;padding:6px;margin-left:6px;cursor:pointer}
+.searchWrap{padding:12px;display:flex;gap:8px;align-items:center}
+#search{flex:1;padding:10px;border-radius:10px;border:1px solid rgba(0,0,0,0.06)}
+#categoryFilter{padding:10px;border-radius:10px;border:1px solid rgba(0,0,0,0.06)}
+main{flex:1;padding:10px;display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:10px}
+.card{
+  background:var(--card);
+  padding:14px;border-radius:12px;
+  box-shadow:0 2px 6px rgba(2,2,2,0.03);
+  display:flex;flex-direction:column;gap:8px;
+  min-height:120px;
+}
+.titleRow{display:flex;justify-content:space-between;align-items:center;gap:8px}
+h3{margin:0;font-size:16px}
+.ar{direction:rtl;font-size:20px;text-align:right;font-family: "Arial", "Noto Naskh Arabic", serif}
+.tr{font-style:italic;color:var(--muted)}
+.de{font-size:14px;color:var(--muted)}
+.btns{display:flex;gap:8px;flex-wrap:wrap}
+.fav{background:transparent;border:1px solid var(--accent);color:var(--accent);padding:6px 8px;border-radius:8px;cursor:pointer}
+.copy{background:var(--accent);color:white;border:none;padding:6px 8px;border-radius:8px;cursor:pointer}
+.footer{padding:12px;text-align:center;border-top:1px solid rgba(0,0,0,0.03)}
+@media (max-width:420px){
+  main{grid-template-columns:1fr}
+  .icon{width:40px;height:40px}
+  .ar{font-size:18px}
+}

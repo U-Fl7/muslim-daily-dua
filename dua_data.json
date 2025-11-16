@@ -1,0 +1,242 @@
+[
+  {
+    "id": "d1",
+    "title": "Vor dem Essen",
+    "ar": "بِسْمِ اللَّهِ",
+    "tr": "Bismillah",
+    "de": "Im Namen Allahs.",
+    "category": "essen"
+  },
+  {
+    "id": "d2",
+    "title": "Nach dem Essen",
+    "ar": "الْحَمْدُ لِلَّهِ",
+    "tr": "Alhamdulillah",
+    "de": "Alles Lob gebührt Allah.",
+    "category": "essen"
+  },
+  {
+    "id": "d3",
+    "title": "Beim Verlassen des Hauses",
+    "ar": "بِسْمِ اللَّهِ، تَوَكَّلْتُ عَلَى اللَّهِ",
+    "tr": "Bismillāhi, tawakkaltu 'alallāh",
+    "de": "Im Namen Allahs; ich vertraue auf Allah.",
+    "category": "haus"
+  },
+  {
+    "id": "d4",
+    "title": "Beim Betreten des Hauses",
+    "ar": "بِسْمِ اللَّهِ وَلَجْنَا",
+    "tr": "Bismillāhi walajnā",
+    "de": "Im Namen Allahs sind wir eingetreten.",
+    "category": "haus"
+  },
+  {
+    "id": "d5",
+    "title": "Vor dem Schlafen",
+    "ar": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+    "tr": "Bismika Allāhumma amūtu wa aḥyā",
+    "de": "O Allah, in Deinem Namen sterbe und lebe ich.",
+    "category": "schlaf"
+  },
+  {
+    "id": "d6",
+    "title": "Beim Aufwachen",
+    "ar": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا",
+    "tr": "Alhamdulillāh allathee ahyana",
+    "de": "Alles Lob gebührt Allah, der uns lebendig machte.",
+    "category": "morgen"
+  },
+  {
+    "id": "d7",
+    "title": "Um Wissen bitten",
+    "ar": "رَبِّ زِدْنِي عِلْمًا",
+    "tr": "Rabbi zidni 'ilman",
+    "de": "Mein Herr, vermehr mein Wissen.",
+    "category": "wissen"
+  },
+  {
+    "id": "d8",
+    "title": "Um Vergebung",
+    "ar": "أَسْتَغْفِرُ اللَّهَ",
+    "tr": "Astaghfirullāh",
+    "de": "Ich bitte Allah um Vergebung.",
+    "category": "vergebung"
+  },
+  {
+    "id": "d9",
+    "title": "Schutz vor Kummer",
+    "ar": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ",
+    "tr": "Allāhumma inni a'ūdhu bika minal-hammi",
+    "de": "O Allah, ich suche Zuflucht bei Dir vor Kummer.",
+    "category": "schutz"
+  },
+  {
+    "id": "d10",
+    "title": "Für die Eltern",
+    "ar": "رَبِّ ارْحَمْهُمَا",
+    "tr": "Rabbir ḥamhumā",
+    "de": "Mein Herr, erbarme Dich ihrer.",
+    "category": "familie"
+  },
+  {
+    "id": "d11",
+    "title": "Beim Reisen",
+    "ar": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا",
+    "tr": "Subḥānalladhī sakhkhara lanā hādhā",
+    "de": "Gepriesen sei Der, Der dies für uns dienstbar machte.",
+    "category": "reisen"
+  },
+  {
+    "id": "d12",
+    "title": "Vor einer Prüfung",
+    "ar": "اللَّهُمَّ لا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا",
+    "tr": "Allāhumma lā sahla illā mā ja'altahu sahlan",
+    "de": "O Allah, mache die Prüfung leicht.",
+    "category": "prüfung"
+  },
+  {
+    "id": "d13",
+    "title": "Für Geduld",
+    "ar": "رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ",
+    "tr": "Rabbi awzi'ni an ashkura ni'mataka",
+    "de": "Mein Herr, gib mir die Kraft, Deine Gaben zu danken.",
+    "category": "herz"
+  },
+  {
+    "id": "d14",
+    "title": "Beim Betreten der Moschee",
+    "ar": "اللَّهُ أَكْبَرُ",
+    "tr": "Allāhu akbar",
+    "de": "Allah ist größer.",
+    "category": "moschee"
+  },
+  {
+    "id": "d15",
+    "title": "Beim Verlassen der Moschee",
+    "ar": "سَلَامٌ عَلَيْكُمْ",
+    "tr": "Salāmun 'alaykum",
+    "de": "Friede sei mit euch.",
+    "category": "moschee"
+  },
+  {
+    "id": "d16",
+    "title": "Für Schutz am Abend",
+    "ar": "اللَّهُمَّ بِاسْمِكَ أَمُوتُ وَأَحْيَا",
+    "tr": "Allāhumma bismika amūtu wa aḥyā",
+    "de": "O Allah, in Deinem Namen sterbe und lebe ich.",
+    "category": "schutz"
+  },
+  {
+    "id": "d17",
+    "title": "Dankbarkeit",
+    "ar": "الْحَمْدُ لِلَّهِ",
+    "tr": "Alhamdulillah",
+    "de": "Alles Lob gebührt Allah.",
+    "category": "dankbarkeit"
+  },
+  {
+    "id": "d18",
+    "title": "Wenn man etwas verliert",
+    "ar": "إِنَّا لِلّهِ وَإِنَّا إِلَيْهِ رَاجِعونَ",
+    "tr": "Inna lillahi wa inna ilayhi raji'un",
+    "de": "Wir gehören Allah und zu Ihm kehren wir zurück.",
+    "category": "verlust"
+  },
+  {
+    "id": "d19",
+    "title": "Für Gesundheit",
+    "ar": "اللَّهُمَّ عَافِنِي",
+    "tr": "Allāhumma 'āfinī",
+    "de": "O Allah, schenke mir Gesundheit.",
+    "category": "gesundheit"
+  },
+  {
+    "id": "d20",
+    "title": "Für Kinder",
+    "ar": "رَبِّ أَعْطِ مَا فِي صُدُورِهِمْ",
+    "tr": "Rabbi a'ti ma fi sudurihim",
+    "de": "Mein Herr, gib ihnen (gutes) in ihren Herzen.",
+    "category": "familie"
+  },
+  {
+    "id": "d21",
+    "title": "Beim Betreten des Ladens",
+    "ar": "بِسْمِ اللَّهِ",
+    "tr": "Bismillah",
+    "de": "Im Namen Allahs.",
+    "category": "alltag"
+  },
+  {
+    "id": "d22",
+    "title": "Für Rechtleitung",
+    "ar": "اهْدِنَا الصِّرَاطَ المُسْتَقِيمَ",
+    "tr": "Ihdinas siratal mustaqim",
+    "de": "Führe uns den geraden Weg.",
+    "category": "glauben"
+  },
+  {
+    "id": "d23",
+    "title": "Fürs Herz",
+    "ar": "اللَّهُمَّ أَلِّنْ قَلْبِي",
+    "tr": "Allāhumma all-in qalbi",
+    "de": "O Allah, erweiche mein Herz.",
+    "category": "herz"
+  },
+  {
+    "id": "d24",
+    "title": "Wenn man Angst hat",
+    "ar": "أَعُوذُ بِكَلِمَاتِ اللَّهِ",
+    "tr": "A'ūdhu bikalimātillāh",
+    "de": "Ich suche Zuflucht bei Allahs Worten.",
+    "category": "schutz"
+  },
+  {
+    "id": "d25",
+    "title": "Beim Ankleiden",
+    "ar": "الْحَمْدُ لِلَّهِ الَّذِي كَسَانِي هَذَا",
+    "tr": "Alhamdulillāh alladhi kasani hatha",
+    "de": "Alles Lob gebührt Allah, der mich damit bekleidet hat.",
+    "category": "alltag"
+  },
+  {
+    "id": "d26",
+    "title": "Beim Ausziehen",
+    "ar": "الْحَمْدُ لِلَّهِ",
+    "tr": "Alhamdulillah",
+    "de": "Alles Lob gebührt Allah.",
+    "category": "alltag"
+  },
+  {
+    "id": "d27",
+    "title": "Wenn man dankbar ist",
+    "ar": "شُكْرًا لِلَّهِ",
+    "tr": "Shukran lillah",
+    "de": "Dank sei Allah.",
+    "category": "dankbarkeit"
+  },
+  {
+    "id": "d28",
+    "title": "Vor einer wichtigen Entscheidung",
+    "ar": "اللَّهُمَّ رَزُقْنِي حُكْمَكَ",
+    "tr": "Allāhumma razuqni hukmaka",
+    "de": "O Allah, leite mich zu Deinem Urteil.",
+    "category": "entscheidung"
+  },
+  {
+    "id": "d29",
+    "title": "Wenn man jemanden besucht",
+    "ar": "السَّلَامُ عَلَيْكُمْ",
+    "tr": "Assalāmu 'alaikum",
+    "de": "Friede sei mit dir.",
+    "category": "besuch"
+  },
+  {
+    "id": "d30",
+    "title": "Dua um Führung",
+    "ar": "رَبِّ هَبْ لِي حُكْمًا",
+    "tr": "Rabbi hab li hukman",
+    "de": "Mein Herr, gib mir Urteilsvermögen.",
+    "category": "glauben"
+  }
+]

@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Muslim Daily Dua</title>
+<link rel="stylesheet" href="style.css">
+<link rel="manifest" href="manifest.json">
+<meta name="description" content="Muslim Daily Dua — kompakte Duʿāʼ für den Alltag. Offline-fähig PWA mit Favoriten, Suche und Nachtmodus.">
+<script>
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('sw.js').catch(e => console.log('SW failed', e));
+}
+</script>
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <img src="icon.png" alt="icon" class="icon">
+    <div>
+      <h1>Muslim Daily Dua</h1>
+      <small>Kurzduʿāʾ für den Alltag</small>
+    </div>
+  </div>
+  <div class="actions">
+    <button id="themeBtn" aria-label="Theme">🌙</button>
+    <button id="shareBtn" aria-label="Share">🔗</button>
+  </div>
+</header>
+
+<section class="searchWrap">
+  <input id="search" type="search" placeholder="Suche Dua, z.B. 'Essen', 'Schlaf'..." />
+  <select id="categoryFilter">
+    <option value="all">Alle Kategorien</option>
+  </select>
+</section>
+
+<main id="list"></main>
+
+<footer class="footer">
+  <div>Tippe auf ☆ für Favoriten • Offline & installierbar</div>
+  <button id="installBtn" style="display:none">Zum Home-Bildschirm hinzufügen</button>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
