@@ -1,0 +1,98 @@
+{
+  "categories": [
+    {"key":"propheten","title":"Dua der Propheten","icon":"🐋"},
+    {"key":"quran","title":"Qurʼān Dua","icon":"📖"},
+    {"key":"dhikr","title":"Dhikr","icon":"🔊"},
+    {"key":"morgen","title":"Morgen-Adhkar","icon":"🌅"},
+    {"key":"abend","title":"Abend-Adhkar","icon":"🌙"}
+  ],
+  "propheten": [
+    {
+      "name":"Yūnus (Yunus, ʿalayhi as-salām)",
+      "category":"propheten",
+      "duas":[
+        {
+          "context":"Als er im Bauch des Wals war.",
+          "arabic":"لَا إِلٰهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+          "transliteration":"Lā ilāha illā anta subḥānaka innī kuntu min az-zālimīn.",
+          "deutsch":"Es gibt keinen Gott außer Dir. Gepriesen bist Du. Gewiss, ich gehörte zu den Ungerechten.",
+          "source":"Qur'ān 21:87"
+        }
+      ]
+    },
+    {
+      "name":"Mūsā (Musa, ʿalayhi as-salām)",
+      "category":"propheten",
+      "duas":[
+        {
+          "context":"Als er Allah um Erleichterung bat.",
+          "arabic":"رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي",
+          "transliteration":"Rabbi ishrah lī ṣadrī wa yassir lī amrī.",
+          "deutsch":"Mein Herr, erweitere mir meine Brust und erleichtere mir meine Angelegenheit.",
+          "source":"Qur'ān 20:25-26"
+        }
+      ]
+    },
+    {
+      "name":"Ibrāhīm (Ibrahim, ʿalayhi as-salām)",
+      "category":"propheten",
+      "duas":[
+        {
+          "context":"Für Nachkommenschaft und Frömmigkeit.",
+          "arabic":"رَبِّ هَبْ لِي مِنَ الصَّالِحِينَ",
+          "transliteration":"Rabbi hab lī min aṣ-ṣāliḥīn.",
+          "deutsch":"Mein Herr, schenke mir aus den Rechtschaffenen.",
+          "source":"Qur'ān 37:100"
+        },
+        {
+          "context":"Als Antwort auf Ablehnung.",
+          "arabic":"حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+          "transliteration":"Hasbunallāhu wa niʻma al-wakīl.",
+          "deutsch":"Allah genügt uns; Er ist der beste Sachwalter.",
+          "source":"Qur'ān 3:173"
+        }
+      ]
+    },
+    {
+      "name":"Ayyūb (Ayub, ʿalayhi as-salām)",
+      "category":"propheten",
+      "duas":[
+        {
+          "context":"Als er schwer krank war.",
+          "arabic":"أَنِّي مَسَّنِيَ الضُّرُّ وَأَنتَ أَرْحَمُ الرَّاحِمِينَ",
+          "transliteration":"Annī massaniya al-ḍurru wa anta arḥamu ar-rāḥimīn.",
+          "deutsch":"Mich hat das Unheil getroffen; Du bist der Allerbarmer der Barmherzigen.",
+          "source":"Qur'ān 21:83"
+        }
+      ]
+    },
+    {
+      "name":"Nūḥ (Nuh, ʿalayhi as-salām)",
+      "category":"propheten",
+      "duas":[
+        {
+          "context":"Während er um Rettung bat.",
+          "arabic":"رَبِّنِي مَا أَغْلَبَنِي فَانْتَصِرْ",
+          "transliteration":"Rabbī innī maghlūbun fa-intasir.",
+          "deutsch":"Mein Herr, ich bin überwältigt; so hilf mir!",
+          "source":"Qur'ān 54:10"
+        }
+      ]
+    }
+  ],
+  "dhikr_groups": [
+    {
+      "name":"Morgen-Adhkar",
+      "duas":[
+        {"context":"Morgendhikr: Tasbih","arabic":"سُبْحَانَ اللَّهِ","transliteration":"Subḥānallāh","deutsch":"Gepriesen sei Allah.","source":"Sunnah"},
+        {"context":"Dankbarkeit","arabic":"الْحَمْدُ لِلَّهِ","transliteration":"Al-ḥamdu lillāh","deutsch":"Alles Lob gebührt Allah.","source":"Sunnah"}
+      ]
+    },
+    {
+      "name":"Abend-Adhkar",
+      "duas":[
+        {"context":"Schutz am Abend","arabic":"بِسْمِ اللَّهِ","transliteration":"Bismillāh","deutsch":"Im Namen Allahs.","source":"Sunnah"}
+      ]
+    }
+  ]
+}
