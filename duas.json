@@ -1,0 +1,161 @@
+{
+  "categories": [
+    {
+      "key": "propheten",
+      "title": "Dua der Propheten",
+      "icon": "🕊️"
+    },
+    {
+      "key": "quran",
+      "title": "Qurʼān Dua",
+      "icon": "📖"
+    },
+    {
+      "key": "dhikr",
+      "title": "Dhikr",
+      "icon": "🔊"
+    },
+    {
+      "key": "morgen",
+      "title": "Morgen-Adhkar",
+      "icon": "🌅"
+    },
+    {
+      "key": "abend",
+      "title": "Abend-Adhkar",
+      "icon": "🌙"
+    }
+  ],
+  "propheten": [
+    {
+      "name": "Adam (ʿalayhi as-salām)",
+      "category": "propheten",
+      "duas": [
+        {
+          "context": "Als er um Vergebung bat.",
+          "arabic": "رَبَّنَا ظَلَمْنَا أَنْفُسَنَا",
+          "transliteration": "Rabbana dhalamna anfusana",
+          "deutsch": "Unser Herr, wir haben uns selbst Unrecht zugefügt.",
+          "source": "Qur'ān 7:23"
+        }
+      ]
+    },
+    {
+      "name": "Nūḥ (Nuh, ʿalayhi as-salām)",
+      "category": "propheten",
+      "duas": [
+        {
+          "context": "Während er um Rettung bat.",
+          "arabic": "رَبِّنِي مَا أَغْلَبَنِي فَانْتَصِرْ",
+          "transliteration": "Rabbī innī maghlūbun fa-intasir",
+          "deutsch": "Mein Herr, ich bin überwältigt; so hilf mir!",
+          "source": "Qur'ān 54:10"
+        }
+      ]
+    },
+    {
+      "name": "Ibrāhīm (Ibrahim, ʿalayhi as-salām)",
+      "category": "propheten",
+      "duas": [
+        {
+          "context": "Für Nachkommenschaft und Frömmigkeit.",
+          "arabic": "رَبِّ هَبْ لِي مِنَ الصَّالِحِينَ",
+          "transliteration": "Rabbi hab lī min aṣ-ṣāliḥīn.",
+          "deutsch": "Mein Herr, schenke mir aus den Rechtschaffenen.",
+          "source": "Qur'ān 37:100"
+        }
+      ]
+    },
+    {
+      "name": "Mūsā (Musa, ʿalayhi as-salām)",
+      "category": "propheten",
+      "duas": [
+        {
+          "context": "Als er Allah um Erleichterung bat.",
+          "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي",
+          "transliteration": "Rabbi ishrah lī ṣadrī",
+          "deutsch": "Mein Herr, erweitere mir meine Brust.",
+          "source": "Qur'ān 20:25"
+        }
+      ]
+    },
+    {
+      "name": "Dāwūd (Dawud, ʿalayhi as-salām)",
+      "category": "propheten",
+      "duas": [
+        {
+          "context": "Dank und Demut.",
+          "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+          "transliteration": "Hasbunallāhu wa niʻma al-wakīl",
+          "deutsch": "Allah genügt uns; Er ist der beste Sachwalter.",
+          "source": "Qur'ān 3:173"
+        }
+      ]
+    },
+    {
+      "name": "Yūnus (Yunus, ʿalayhi as-salām)",
+      "category": "propheten",
+      "duas": [
+        {
+          "context": "Als er im Bauch des Wals war.",
+          "arabic": "لَا إِلٰهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+          "transliteration": "Lā ilāha illā anta subḥānaka innī kuntu min az-zālimīn.",
+          "deutsch": "Es gibt keinen Gott außer Dir. Gepriesen bist Du. Gewiss, ich gehörte zu den Ungerechten.",
+          "source": "Qur'ān 21:87"
+        }
+      ]
+    },
+    {
+      "name": "ʿĪsā (Isa, ʿalayhi as-salām)",
+      "category": "propheten",
+      "duas": [
+        {
+          "context": "Für Heilung und Barmherzigkeit.",
+          "arabic": "رَبِّ اشْفِ نَا",
+          "transliteration": "Rabbi ishfi na",
+          "deutsch": "Mein Herr, heile uns.",
+          "source": "Dua (various)"
+        }
+      ]
+    },
+    {
+      "name": "Muḥammad (Muhammad, ṣallallāhu ʿalayhi wa sallam)",
+      "category": "propheten",
+      "duas": [
+        {
+          "context": "Verschiedene Sunnah Duas.",
+          "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً",
+          "transliteration": "Rabbana atina fid-dunya hasanatan",
+          "deutsch": "Unser Herr, gib uns Gutes in dieser Welt.",
+          "source": "Qur'ān 2:201"
+        }
+      ]
+    }
+  ],
+  "dhikr_groups": [
+    {
+      "name": "Morgen-Adhkar",
+      "duas": [
+        {
+          "context": "Tasbih",
+          "arabic": "سُبْحَانَ اللَّهِ",
+          "transliteration": "Subḥānallāh",
+          "deutsch": "Gepriesen sei Allah.",
+          "source": "Sunnah"
+        }
+      ]
+    },
+    {
+      "name": "Abend-Adhkar",
+      "duas": [
+        {
+          "context": "Bismillah",
+          "arabic": "بِسْمِ اللَّهِ",
+          "transliteration": "Bismillāh",
+          "deutsch": "Im Namen Allahs.",
+          "source": "Sunnah"
+        }
+      ]
+    }
+  ]
+}
